@@ -17,14 +17,21 @@ This DATA 201 group project develops a relational database and data intelligence
 11. Creation of meaningful data visualizations
 12. Preparation of the technical report
 
+## Description:
 
-Dataset Access & Setup
+A DataSet of Supply Chains used by the company DataCo Global was used for the analysis. 
 
-Because the raw 2021 SPARCS Inpatient Discharges dataset exceeds GitHub's 100 MB upload limit, the raw file is hosted externally:
-*Download Raw Dataset:** https://drive.google.com/drive/folders/1DACUlvfeQalZElHgP7iqi3Yhjnlsuiox?usp=drive_link
+Type Data :
+Structured Data :  DataCoSupplyChainDataset.csv
+Unstructured Data : tokenized_access_logs.csv (Clickstream)
 
-**Official Source:** [NY Health Data SPARCS Portal](https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/tg3i-cinn/about_data)
+## Dataset Access & Setup
+
+**Official Source:** [DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS](10.17632/8gx2fvg2k6.5)
 
 ### Local Setup Instructions
-1. Download the CSV from the Google Drive link above.
-2. Open the CSV with TextEdit or MS Excel. Be sure that MS Excel might reformat the CSV file or truncate some data.
+1. Download the CSV from the link above.
+2. Connect to MySQL Workbench and run project.sql.
+
+## References
+Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS”, Mendeley Data, V5, doi: 10.17632/8gx2fvg2k6.5

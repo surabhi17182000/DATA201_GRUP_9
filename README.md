@@ -17,6 +17,7 @@ This DATA 201 group project develops a relational database and data intelligence
 11. Creation of meaningful data visualizations
 12. Preparation of the technical report
 
+## Description:
 
 Dataset Access & Setup
 https://data.mendeley.com/datasets/8gx2fvg2k6/5?utm_

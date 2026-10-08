@@ -19,19 +19,8 @@ This DATA 201 group project develops a relational database and data intelligence
 
 ## Description:
 
-A DataSet of Supply Chains used by the company DataCo Global was used for the analysis. 
+Dataset Access & Setup
+https://data.mendeley.com/datasets/8gx2fvg2k6/5?utm_
 
-Type Data :
-Structured Data :  DataCoSupplyChainDataset.csv
-Unstructured Data : tokenized_access_logs.csv (Clickstream)
-
-## Dataset Access & Setup
-
-**Official Source:** [DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS](10.17632/8gx2fvg2k6.5)
-
-### Local Setup Instructions
-1. Download the CSV from the link above.
-2. Connect to MySQL Workbench and run project.sql.
-
-## References
-Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS”, Mendeley Data, V5, doi: 10.17632/8gx2fvg2k6.5
+# Accessing the files:
+Click the link above to download the CSV files from the website.
